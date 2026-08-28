@@ -1,0 +1,14 @@
+Utilidades
+
+Aquí van funciones reutilizables que no pertenecen claramente a una entidad del negocio.
+
+Por ejemplo:
+
+generar un SKU;
+formatear una fecha;
+generar un código aleatorio.
+
+Responsabilidad principal:
+
+Agrupar funciones auxiliares reutilizables.
+

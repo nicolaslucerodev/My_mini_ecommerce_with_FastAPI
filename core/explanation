@@ -1,0 +1,21 @@
+Configuración compartida
+
+Aquí suele ir todo aquello que afecta a toda la aplicación.
+
+Por ejemplo:
+
+configuración;
+variables de entorno;
+JWT;
+seguridad;
+logging.
+
+No pertenece a una entidad específica como Product o Order, sino a toda la aplicación.
+
+Responsabilidad principal:
+
+Centralizar configuraciones y componentes globales.
+
+PREGUNTA QUE RESPONDE: 
+
+¿Qué configuración es compartida por toda la aplicacion?    
